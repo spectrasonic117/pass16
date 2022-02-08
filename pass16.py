@@ -7,7 +7,9 @@ print('Hello! Welcome to the password generator!'),
 
 #Iimput for length of password
 # length = int(input('\nEnter the length of your password: '))
-length = 16
+
+
+length = 16 #you can change this number for tle password lenght
 
 
 # define data
