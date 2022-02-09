@@ -1,17 +1,16 @@
-# Pass16
+\*# Pass16
 
 This is a small password generator created in python generates a 16-character password that combines uppercase, lowercase, numbers and special characters.
 
-**This is to celebrate Security Intertet Day 2022**
+**This is to celebrate Security Internet Day 2022**
 
 > Requires pip3 and Pyperclip3 to run
 
-<br>
+<br>ºº/
 
-## Social
+## Social Media
 
 - [Instagram](https://instagram.com/spectrasonic117)
-
 - [Twitter](https://twwitter.com/spectrasonic117)
 - [Gitlab](https://gitlab.com/spectrasonic)
 
@@ -20,9 +19,6 @@ This is a small password generator created in python generates a 16-character pa
 
 > You can change the character length by modifying the number "16" to the one you want.
 
-<br>
-<br>
-<br>
 <br>
 <br>
 
